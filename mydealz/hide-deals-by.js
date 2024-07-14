@@ -2,6 +2,7 @@
 // @name         MyDealz: Hide Deals By
 // @version      2024-07-14
 // @author       jgerstbe
+// @description  Hide deals from specific brand from the deal list
 // @match        https://www.mydealz.de/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mydealz.de
 // @grant        none
